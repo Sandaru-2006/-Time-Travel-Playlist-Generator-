@@ -29,7 +29,7 @@ Creates a private playlist on Spotify with the found songs.
 Usage
 
 Clone the repository:
-git clone https://github.com/yourusername/time-travel-playlist-generator.git
+https://github.com/Sandaru-2006/-Time-Travel-Playlist-Generator-.git
 
 Install the required libraries:
 pip install -r requirements.txt
